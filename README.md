@@ -3,4 +3,13 @@ Hello everybody! We have finally released the mineCORE kernel for [mineOS](https
 
 ### How to enter system
 
-Enter username:
+System account for authorization in mineCORE:
+										
+	Login: root
+	Password: root
+
+### How to create a new user
+
+Enter the following command to start the mineCORE Account Manager program:
+	
+	usermgr
