@@ -1,3 +1,0 @@
-::ACVDATA type=DIR,path=/bin
-::ACVDATA type=FILE,path=/package.cfg
-{["files"] = {["bin/openvm.lua"] = "/bin/openvm.lua",},["arch"] = "all",["name"] = "openvm",}
