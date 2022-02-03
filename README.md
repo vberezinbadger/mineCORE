@@ -1,4 +1,4 @@
-## mineOS has released
+## mineCORE has released
 
 Hello, friends!
 
