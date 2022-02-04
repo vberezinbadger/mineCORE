@@ -6,4 +6,8 @@ mineCORE is now not just a core, but the whole basis for MineOS. MineOS Server a
 
 Just follow the development. And yes, version 2.0 has already been released, but this is just the beginning of what we are going to do.
 
-Installing from under openOS: <pastebin run 3qMJ5ERb>
+Installing from under openOS:
+
+pastebin run 3qMJ5ERb
+
+Good day!
