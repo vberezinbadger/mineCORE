@@ -8,6 +8,6 @@ Just follow the development. And yes, version 2.0 has already been released, but
 
 Installing from under openOS:
 
-pastebin run 3qMJ5ERb
+    pastebin run 3qMJ5ERb
 
 Good day!
