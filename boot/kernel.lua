@@ -1,10 +1,9 @@
--- A kernel. --
--- (c) 2020 Ocawesome101
+-- mineCORE Kernel --
 
 local KERNEL_VERSION = "mineCORE 2.0"
 local printLogs = true
 
--- Set up proxy stuff
+-- Set up proxy stuff --
 fs = component.proxy(component.invoke(component.list("eeprom")(), "getData"))
 
 function loadfile(file)
