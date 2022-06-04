@@ -10,4 +10,6 @@ mineCORE 3.0 is a continuation of the second version of the kernel, which includ
 ##### - Login: root
 ##### - Password: root
 
+
+
 It is based on OpenKernel.
