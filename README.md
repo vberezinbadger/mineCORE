@@ -1,13 +1,9 @@
-## mineCORE has released
+## mineCORE 3.0 Dev
 
-Hello, friends!
+### Hello, friends!
 
-mineCORE is now not just a core, but the whole basis for MineOS. MineOS Server and many other things will also be built on it. The core will be amazing and amazing.
+##### mineCORE version: 3.0.010 (dev)
 
-Just follow the development. And yes, version 2.0 has already been released, but this is just the beginning of what we are going to do.
+mineCORE 3.0 is a continuation of the second version of the kernel, which includes a lot of chips and buns. For example, an excellent user manager system, and much more. In principle, there are more possibilities than the older brother, but this is a version for testers and developers, and it may work unstable. Consider this.
 
-Installing from under openOS:
-
-    pastebin run 3qMJ5ERb
-
-Good day!
+It is based on OpenKernel.
