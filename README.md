@@ -2,7 +2,7 @@
 
 ### Hello, friends!
 
-##### mineCORE version: 2.0.310
+##### mineCORE version: 2.0.310 (release)
 
 mineCORE 2.0 is already out, which is cool! Undoubtedly, it has become part of the mine ecosystem, and is already the basis of the mineBASH terminal, and not just an independent operating system. The great core. 
 
