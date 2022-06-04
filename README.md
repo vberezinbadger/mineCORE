@@ -1,13 +1,9 @@
-## mineCORE has released
+## mineCORE 2.0
 
-Hello, friends!
+### Hello, friends!
 
-mineCORE is now not just a core, but the whole basis for MineOS. MineOS Server and many other things will also be built on it. The core will be amazing and amazing.
+##### mineCORE version: 2.0.310
 
-Just follow the development. And yes, version 2.0 has already been released, but this is just the beginning of what we are going to do.
+mineCORE 2.0 is already out, which is cool! Undoubtedly, it has become part of the mine ecosystem, and is already the basis of the mineBASH terminal, and not just an independent operating system. The great core. 
 
-Installing from under openOS:
-
-    pastebin run 3qMJ5ERb
-
-Good day!
+It is based on OpenKernel.
